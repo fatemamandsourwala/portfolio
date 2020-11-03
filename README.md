@@ -1,3 +1,3 @@
-### portfolio
+# portfolio
 
-# basic mail subscription portfolio using mailchimp
+### basic mail subscription portfolio using mailchimp
